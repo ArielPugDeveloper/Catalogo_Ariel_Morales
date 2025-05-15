@@ -1,0 +1,9 @@
+mat-card img {
+  min-width: 100%;
+  height: 250px;             /* ✅ Altura fija */
+         /* ✅ Recorta sin deformar */
+  border-radius: 4px;
+}
+
+
+

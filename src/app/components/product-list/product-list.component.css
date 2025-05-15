@@ -1,0 +1,7 @@
+.product-list {
+  display: flex;
+  flex-wrap: wrap; /* Si quieres que se vayan a otra línea si no caben */
+  gap: 16px;
+  justify-content: start;
+  align-items: flex-start;
+}
